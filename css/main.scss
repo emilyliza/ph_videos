@@ -7,9 +7,19 @@
 
 .starter-template {
   text-align: center;
-  margin-top: 10rem;
+  margin-top: 3rem;
 
   .lead {
-    font-weight: 200;
+    font-weight: 100;
   }
+}
+a {
+ color: black;
+}
+a:hover{
+ padding: 10px;
+ border:2px solid white;
+}
+h2 {
+padding: 20px;
 }
