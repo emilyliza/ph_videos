@@ -24,21 +24,22 @@ h2 {
 }
 .quotes {
   line-height: 1.5;
-  font-weight: bold;
+  font-weight: 400;
   padding-top: 40px;
   padding-bottom: 0;
   color: black;
+  // font-family: "Gotham";
 }
 .quote_name {
   line-height: 1.5;
   color: black;
-  font-weight: bold;
+  font-weight: 400;
 }
 .container_main {
     box-shadow: 0 0 30px black;
-    height: 500px;
+    height: 425px;
     width: 1100px;;
     text-align: left;
-    background: url("land.jpg");
+    background: url("../land_smaller.png");
     // background-color: #74cedd;
 }
